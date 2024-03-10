@@ -6,7 +6,7 @@ Hardware :
 - PCB or Wires / Jumper Cables
 - 5x 220 ohm resistors
 - 5x 5v THT LEDS
-- AXL345 or MPU6050
+- AXL345 or MPU6050 (you might have to slightly alter the code , the hardware is very similar but still different)
 If you going for power through a LiPo : 12v schottky diode and connector of your choice.
 Max consummption : 90mA
 
